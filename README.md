@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcomes people to the community
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcomes people to the community
 
 ## Getting started
 
